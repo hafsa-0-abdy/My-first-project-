@@ -12,7 +12,7 @@ THe Quiz App allows users to answer questions from various categories including 
 * And you are ready for the quiz
 
 ## Live server
-* You can view the web live on [Quizzit App](https://github.com/hafsa-0-abdy/My-first-project-.git)
+* You can view the web live on [Quizzit App](https://hafsa-0-abdy.github.io/My-first-project-/)
 
 ## slide link
 You can view the slide link on (https://docs.google.com/presentation/d/10qymh5Lmx86MZwE3Bmjc4SebEORtmiNnB3Sv5M-QZVc/edit?usp=sharing)
@@ -33,7 +33,7 @@ HTML, CSS , JavaScript, JSON
 email ::habsa.abdirizack@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence](https://github.com/hafsa-0-abdy/My-first-project-.git)*
+*LIcenced under the [MT-licence](https://hafsa-0-abdy.github.io/My-first-project-/)*
 
 Copyright (c) 2024 **Habsa Abdirizack**# my-quiz app
 # quizzit app
