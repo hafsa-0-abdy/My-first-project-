@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('http://localhost:3000/quiz')
+    fetch('https://my-first-project-mb6t.onrender.com/quiz')
         .then(response => {
             if (!response.ok) throw new Error('Network response was not ok');
             return response.json();
