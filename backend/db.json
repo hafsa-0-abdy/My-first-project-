@@ -1,0 +1,114 @@
+{
+    "quiz": [ 
+      {
+        "id": 1,
+        "category": "Easy",
+        "question": "What is the largest continent in the world?",
+        "answer": "Asia"
+      },
+      {
+        "id": 2,
+        "category": "Easy",
+        "question": "What is the study of man?",
+        "answer": "Anthropolgy"
+      },
+      {
+        "id": 3,
+        "category": "Easy",
+        "question": "What is 14+4?",
+        "answer": "18"
+      },
+      {
+        "id": 4,
+        "category": "Medium",
+        "question": "What is a group of lions called?",
+        "answer": "Pride"
+      },
+      {
+        "id": 5,
+        "category": "Medium",
+        "question": "What is the closest planent to the sun?",
+        "answer": "Mercury"
+      },
+      {
+        "id": 6,
+        "category": "Easy",
+        "question": "What lives in the pineapple undert the sea?",
+        "answer": "SpongeBob SquarePants"
+      },
+      {
+        "id": 7,
+        "category": "Easy",
+        "question": "How many players are there in a basketball team?",
+        "answer": "7"
+      },
+      {
+        "id": 8,
+        "category": "Hard",
+        "question": "What is the name of the vehicle that travels under the sea?",
+        "answer": "Submarine"
+      },
+      {
+        "id": 9,
+        "category": "Medium",
+        "question": "What is the sqauare root of 144?",
+        "answer": "12"
+      },
+      {
+        "id": 10,
+        "category": "Easy",
+        "question": "What is the holiday celebrated on the 14th of February?",
+        "answer": "Valentine day"
+      },
+      {
+        "id": 11,
+        "category": "Hard",
+        "question": "How many states does the Appalchian Trail cross?",
+        "answer": "14"
+      },
+      {
+        "id": 12,
+        "category": "Medium",
+        "question": "what do you call a group of flamingos?",
+        "answer": "Flamboyance"
+      },
+      {
+        "id": 13,
+        "category": "Hard",
+        "question": "What is the distance from Earth to the sun?",
+        "answer": "93 million miles"
+      },
+      {
+        "id": 14,
+        "category": "Medium",
+        "question": "Who is considered the 'Father of Relatively?",
+        "answer": "Albert Eintstein"
+      },
+      {
+        "id": 15,
+        "category": "Medium",
+        "question": "What is the fifth sign of zodiac?",
+        "answer": "Leo"
+      },
+      {
+        "id": 16,
+        "category": "Easy",
+        "question": "if you were to go anywhere in the world where will you go?",
+        "answer": "Anywhere"
+      },
+      {
+        "id": 17,
+        "category": "Easy",
+        "question": "if money were no object what will you do?",
+        "answer": "Travel"
+      },
+      {
+        "id": 18,
+        "category": "Easy",
+        "question": "Who is Barbie's little sister?",
+        "answer": "Skipper"
+      }
+      
+  
+    ]
+  }
