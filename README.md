@@ -33,7 +33,8 @@ HTML, CSS , JavaScript, JSON
 email ::habsa.abdirizack@student.moringaschool.com
 
 ### License
+
 *LIcenced under the [MT-licence](https://hafsa-0-abdy.github.io/My-first-project-/)*
 
 Copyright (c) 2024 **Habsa Abdirizack**# my-quiz app
-# quizzit app
+
